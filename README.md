@@ -4,6 +4,11 @@
 ##### I like to write code, live like code, think like code, it's interesting because all the time I have to learn new things.
 ##### I will write here my thoughts on the successes and failures of our hard work, see you 😄😄😄
 
+
+##### My statistic with public repositories:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rustamw888)](https://github.com/Rustamw888/github-readme-stats)
+
 ![This is an image](https://i.imgur.com/OM0MZ75.png)
 <!--
 **Rustamw888/Rustamw888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
