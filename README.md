@@ -7,7 +7,7 @@
 
 ##### My statistic with public repositories:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rustamw888)](https://github.com/Rustamw888/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rustamw888&show_icons=true&theme=tokyonight)
 
 ![This is an image](https://i.imgur.com/OM0MZ75.png)
 <!--
