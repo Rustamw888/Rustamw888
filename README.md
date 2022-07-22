@@ -27,9 +27,6 @@
 <p align="center">
   <img title="to_be_continued gif" src="images/gif/time-travel-vanish.gif">
 </p>
-<p align="center">
-  <img title="to_be_continued gif" src="images/gif/to_be_continued.gif">
-</p>
 
 ## Дипломный проект школы <a target="_blank" href="https://qa.guru">QA GURU</a>
 ## Тестирование UI
@@ -94,3 +91,7 @@
 </p>
 
 :rocket: Реализованы тесты для мобильного приложения для https://javarush.ru/.</br></br>
+
+<p align="center">
+  <img title="to_be_continued gif" src="images/gif/to_be_continued.gif">
+</p>
