@@ -1,51 +1,96 @@
-### Hi there, I'm Rustam👋
+## Hi there, I'm Rustam👋
 
-##### I’m currently learning QA.GURU,
-##### I like to write code, live like code, think like code, it's interesting because all the time I have to learn new things.
-##### I will write here my thoughts on the successes and failures of our hard work, see you 😄😄😄
+#### I’m currently learning QA.GURU,
+#### I like to write code, live like code, think like code, it's interesting because all the time I have to learn new things.
+#### I will write here my thoughts on the successes and failures of our hard work, see you 😄😄😄
 
 
-##### My statistic with public repositories:
+#### My statistic with public repositories:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rustamw888&show_icons=true&theme=tokyonight)
 
-![This is an image](https://i.imgur.com/OM0MZ75.png)
-<!--
-**Rustamw888/Rustamw888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my github page
+<p align="center">
+  <img title="to_be_continued gif" src="images/gif/welcome.gif">
+</p>
 
-Hall of Fame
-There may be my certificate from your course here 
+## Hall of Fame
 ![This is an image](https://i.imgur.com/P8Mwwkf.png)
-![This is an image](/icons/Java.png)
-![This is an image](/icons/Java.png)
-![This is an image](/icons/Java.png)
-![This is an image](/icons/Java.png)
-![This is an image](/icons/Java.png)
-![This is an image](/icons/Java.png)
-![This is an image](/icons/Java.png)
+
+### There may be my certificate from your course here
+
+![This is an image](/images/screenshots/manual.png)
+![This is an image](/images/screenshots/python.png)
+![This is an image](/images/screenshots/kotlin.png)
+![This is an image](/images/screenshots/java.png)
+![This is an image](/images/screenshots/git.png)
+<p align="center">
+  <img title="to_be_continued gif" src="images/gif/time-travel-vanish.gif">
+</p>
+<p align="center">
+  <img title="to_be_continued gif" src="images/gif/to_be_continued.gif">
+</p>
 
 ## Дипломный проект школы <a target="_blank" href="https://qa.guru">QA GURU</a>
 ## Тестирование UI
 :link: Тестовый проект: <a target="_blank" href="https://github.com/Rustamw888/StackoverflowUITests">StackoverflowUITests</a></br></br>
-![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)![This is an image](/icons/Jira.png)</br></br>
-:heavy_check_mark: Реализованы автотесты UI на проверку элементов главной страницы Единого карьерного портала Госкорпорации "Росатом", а также поиск заданной вакансии.</br></br>
+<p align="center">
+<img width="6%" title="IntelliJ IDEA" src="images/logo/Intelij_IDEA.svg">
+<img width="6%" title="Java" src="images/logo/Java.svg">
+<img width="6%" title="Selenide" src="images/logo/Selenide.svg">
+<img width="6%" title="Selenoid" src="images/logo/Selenoid.svg">
+<img width="6%" title="Allure Report" src="images/logo/Allure_Report.svg">
+<img width="6%" title="Gradle" src="images/logo/Gradle.svg">
+<img width="6%" title="JUnit5" src="images/logo/JUnit5.svg">
+<img width="6%" title="GitHub" src="images/logo/GitHub.svg">
+<img width="6%" title="Jenkins" src="images/logo/Jenkins.svg">
+<img width="6%" title="AllureTestOps" src="images/logo/AllureTestOps.svg">
+<img width="6%" title="Git" src="images/logo/Git.svg">
+<img width="6%" title="Jira" src="images/logo/Jira.svg">
+<img width="6%" title="Telegram" src="images/logo/Telegram.svg">
+</p>
+
+:rocket: Реализованы UI тесты для сайта https://ru.stackoverflow.com/.</br></br>
 
 ## Тестирование REST API
 :link: Тестовый проект: <a target="_blank" href="https://github.com/Rustamw888/LingualeoApiTests">LingualeoApiTests</a></br></br>
-![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Rest-Assured.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)</br></br>
+<p align="center">
+<img width="6%" title="IntelliJ IDEA" src="images/logo/Intelij_IDEA.svg">
+<img width="6%" title="Java" src="images/logo/Java.svg">
+<img width="6%" title="Allure Report" src="images/logo/Allure_Report.svg">
+<img width="6%" title="Gradle" src="images/logo/Gradle.svg">
+<img width="6%" title="JUnit5" src="images/logo/JUnit5.svg">
+<img width="6%" title="GitHub" src="images/logo/GitHub.svg">
+<img width="6%" title="Jenkins" src="images/logo/Jenkins.svg">
+<img width="6%" title="AllureTestOps" src="images/logo/AllureTestOps.svg">
+<img width="6%" title="Git" src="images/logo/Git.svg">
+<img width="6%" title="RestAssured" src="images/logo/RestAssured.svg">
+<img width="6%" title="Jira" src="images/logo/Jira.svg">
+<img width="6%" title="Telegram" src="images/logo/Telegram.svg">
+</p>
+
+:rocket: Реализованы REST API тесты для сайта https://lingualeo.com/ru.</br></br>
 
 ## Тестирование мобильного приложения
 :link: Тестовый проект: <a target="_blank" href="https://github.com/Rustamw888/JavaRushMobileTests">JavaRushMobileTests</a></br></br>
-![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/appium.png) ![This is an image](/icons/androidstudio.png)</br></br>
+<p align="center">
+<img width="6%" title="IntelliJ IDEA" src="images/logo/Intelij_IDEA.svg">
+<img width="6%" title="Java" src="images/logo/Java.svg">
+<img width="6%" title="Selenide" src="images/logo/Selenide.svg">
+<img width="6%" title="Gradle" src="images/logo/Gradle.svg">
+<img width="6%" title="JUnit5" src="images/logo/JUnit5.svg">
+<img width="6%" title="Android Studio" src="images/logo/android-studio.svg">
+<img width="6%" title="Appium" src="images/logo/appium.svg">
+<img width="6%" title="BrowserStack" src="images/logo/browserstack.svg">
+<img width="6%" title="Selenoid" src="images/logo/Selenoid.svg">
+<img width="6%" title="Allure Report" src="images/logo/Allure_Report.svg">
+<img width="6%" title="GitHub" src="images/logo/GitHub.svg">
+<img width="6%" title="Jenkins" src="images/logo/Jenkins.svg">
+<img width="6%" title="AllureTestOps" src="images/logo/AllureTestOps.svg">
+<img width="6%" title="Git" src="images/logo/Git.svg">
+<img width="6%" title="RestAssured" src="images/logo/RestAssured.svg">
+<img width="6%" title="Jira" src="images/logo/Jira.svg">
+<img width="6%" title="Telegram" src="images/logo/Telegram.svg">
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:rocket: Реализованы тесты для мобильного приложения для https://javarush.ru/.</br></br>
