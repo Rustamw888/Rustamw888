@@ -1,23 +1,21 @@
-## Hi there, I'm Rustam👋
+## Привет, меня зовут Рустам👋.
 
-#### I’m currently learning QA.GURU,
-#### I like to write code, live like code, think like code, it's interesting because all the time I have to learn new things.
-#### I will write here my thoughts on the successes and failures of our hard work, see you 😄😄😄
+#### Мне нравится тестировать, писать код и учиться новому.
+#### Здесь я буду писать свои мысли об успехах и неудачах нашего нелегкого труда😄😄😄
 
 
-#### My statistic with public repositories:
+#### Моя статистика с публичными репозиториями:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rustamw888&show_icons=true&theme=tokyonight)
 
-## Welcome to my github page
+## Добро пожаловать на мою страничку github
 <p align="center">
   <img title="to_be_continued gif" src="images/gif/welcome.gif">
 </p>
 
-## Hall of Fame
 ![This is an image](https://i.imgur.com/P8Mwwkf.png)
 
-### There may be my certificate from your course here
+### Здесь может находиться мой сертификат с вашего курса😄😄😄
 
 ![This is an image](/images/screenshots/manual.png)
 ![This is an image](/images/screenshots/python.png)
