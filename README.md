@@ -24,6 +24,8 @@
 ![This is an image](/images/screenshots/kotlin.png)
 ![This is an image](/images/screenshots/java.png)
 ![This is an image](/images/screenshots/git.png)
+![This is an image](/images/screenshots/QAGURUdiplomEnglish.png)
+![This is an image](/images/screenshots/QAGURUdiplomRussian.png)
 <p align="center">
   <img title="to_be_continued gif" src="images/gif/time-travel-vanish.gif">
 </p>
