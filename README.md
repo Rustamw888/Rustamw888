@@ -27,10 +27,6 @@
 ![This is an image](/images/screenshots/manual.png)
 
 
-
-
-
-
 <p align="center">
   <img title="to_be_continued gif" src="images/gif/time-travel-vanish.gif">
 </p>
