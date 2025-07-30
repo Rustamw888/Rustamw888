@@ -16,6 +16,8 @@
 ![This is an image](https://i.imgur.com/P8Mwwkf.png)
 
 ### Здесь может находиться мой сертификат с вашего курса😄😄😄
+![This is an image](/images/screenshots/QAGURUAdvancedJavaRussian2.png)
+![This is an image](/images/screenshots/QAGURUAdvancedJavaEnglish2.png)
 ![This is an image](/images/screenshots/QAGURUAdvancedJavaRussian.png)
 ![This is an image](/images/screenshots/QAGURUAdvancedJavaEnglish.png)
 ![This is an image](/images/screenshots/QAGURUdiplomPythonRussian.png)
